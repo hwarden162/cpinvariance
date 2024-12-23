@@ -11,5 +11,6 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 LazyData: true
-URL: https://github.com/hwarden162/cpinvariance
+URL: https://github.com/hwarden162/cpinvariance,
+    https://hwarden162.github.io/cpinvariance/
 BugReports: https://github.com/hwarden162/cpinvariance/issues
